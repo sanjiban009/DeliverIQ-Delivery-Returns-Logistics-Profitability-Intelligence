@@ -4,7 +4,7 @@ An Excel-supported, Power BI-style HTML analytics project by **Sanjiban Das**, d
 
 **Synthetic case study:** all 20,000 orders, courier identities and business results are fictional. This is an HTML dashboard with an Excel workbook, not a Power BI `.pbix` file. No SQL or database is required.
 
-![Executive dashboard](screenshots/01_Executive.jpg)
+
 
 **Reporting period: FY 2026-27 · FYTD 1 April–16 November 2026.** November and Q3 are partial. See [Indian FYTD definitions](docs/INDIAN_FYTD.md).
 
@@ -67,3 +67,13 @@ Excel formulas and structured source table; HTML, CSS, vanilla JavaScript and in
 See [Excel guide](docs/EXCEL_GUIDE.md), [methodology](docs/METHODOLOGY.md), [GitHub guide](docs/GITHUB_GUIDE.md) and [validation](docs/VALIDATION.md).
 
 Author: [Sanjiban Das](https://www.linkedin.com/in/sanjibandas009/).
+<img width="1348" height="926" alt="08_Dashboard" src="https://github.com/user-attachments/assets/20bbf7d1-1284-4c60-8d24-31ffe98a598f" />
+<img width="1348" height="926" alt="07_Dashboard" src="https://github.com/user-attachments/assets/65c401be-27d8-4872-b57a-c39e948b0258" />
+<img width="1348" height="926" alt="06_Dashboard" src="https://github.com/user-attachments/assets/9850a020-6781-456a-ad23-1d56ac487fe4" />
+<img width="1348" height="926" alt="05_Dashboard" src="https://github.com/user-attachments/assets/d51a4390-f389-4442-95fc-3a498b82bd9d" />
+<img width="1348" height="926" alt="04_Dashboard" src="https://github.com/user-attachments/assets/d247cfb3-58e9-4abc-8b66-9d02220a3c7b" />
+<img width="1348" height="926" alt="03_Dashboard" src="https://github.com/user-attachments/assets/beab0ade-0b31-426b-88dd-f22fd8bf8c41" />
+<img width="1348" height="926" alt="02_Dashboard" src="https://github.com/user-attachments/assets/d37b93cb-f7df-4d25-b553-4a9b9a6b4354" />
+<img width="1363" height="1287" alt="01_Executive" src="https://github.com/user-attachments/assets/2bbbd1ed-f9d4-451d-b956-d98d07cbd160" />
+
+
