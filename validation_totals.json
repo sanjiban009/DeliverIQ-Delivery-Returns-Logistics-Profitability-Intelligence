@@ -1,0 +1,12 @@
+{
+  "Net_Revenue": 19356592.0,
+  "Recognised_COGS": 9446550.0,
+  "Logistics_Cost": 2387673.0,
+  "Writeoff": 748477.0,
+  "Contribution": 6773892.0,
+  "Delivered": 16632,
+  "On_Time": 8315,
+  "Orders": 20000,
+  "RTO": 3368,
+  "Customer_Returns": 1539
+}
